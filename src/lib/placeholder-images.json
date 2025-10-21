@@ -1,0 +1,88 @@
+{
+  "placeholderImages": [
+    {
+      "id": "onboardingWelcome",
+      "description": "A vibrant flat lay of fresh vegetables and cooking utensils on a wooden table.",
+      "imageUrl": "https://images.unsplash.com/photo-1471193945509-9ad0617afabf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxmcmVzaCUyMHZlZ2V0YWJsZXN8ZW58MHx8fHwxNzYwOTQxMTg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fresh vegetables"
+    },
+    {
+      "id": "recipeBroccoliCheddarSoup",
+      "description": "A steaming bowl of creamy broccoli cheddar soup, garnished with croutons.",
+      "imageUrl": "https://images.unsplash.com/photo-1743096152678-fd0b5a89b567?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxicm9jY29saSUyMHNvdXB8ZW58MHx8fHwxNzYwOTc1OTU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "broccoli soup"
+    },
+    {
+      "id": "recipeChickenAlfredo",
+      "description": "A plate of rich and creamy chicken alfredo pasta with parsley.",
+      "imageUrl": "https://images.unsplash.com/photo-1748012199673-d990c72aaa57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YWxmcmVkbyUyMHBhc3RhfGVufDB8fHx8MTc2MDk3NTk1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "alfredo pasta"
+    },
+    {
+      "id": "recipeVeggieStirFry",
+      "description": "A colorful vegetable stir-fry with tofu in a sizzling wok.",
+      "imageUrl": "https://images.unsplash.com/photo-1722290680497-389e0f684e05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx2ZWdldGFibGUlMjBzdGlyLWZyeXxlbnwwfHx8fDE3NjA5NzM4NjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vegetable stir-fry"
+    },
+    {
+      "id": "recipeTacos",
+      "description": "Three delicious-looking tacos with various fillings on a platter.",
+      "imageUrl": "https://images.unsplash.com/photo-1644085128237-9ba593123ac3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx0YWNvcyUyMHBsYXR0ZXJ8ZW58MHx8fHwxNzYwOTc1OTU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tacos platter"
+    },
+    {
+      "id": "recipeChocolateCake",
+      "description": "A slice of decadent chocolate layer cake with frosting.",
+      "imageUrl": "https://images.unsplash.com/photo-1540337706094-da10342c93d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2hvY29sYXRlJTIwY2FrZXxlbnwwfHx8fDE3NjA5NzE1NjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chocolate cake"
+    },
+    {
+      "id": "ingredientUploadBg",
+      "description": "A person holding a smartphone, taking a photo of ingredients on a kitchen counter.",
+      "imageUrl": "https://images.unsplash.com/photo-1577048982768-5cb3e7ddfa23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxraXRjaGVuJTIwaW5ncmVkaWVudHN8ZW58MHx8fHwxNzYwODg4MTA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "kitchen ingredients"
+    },
+    {
+      "id": "wasteTrackingVisual",
+      "description": "An infographic-style image showing a plant growing from a compost bin, symbolizing renewal.",
+      "imageUrl": "https://images.unsplash.com/photo-1457530378978-8bac673b8062?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwbGFudCUyMGdyb3dpbmd8ZW58MHx8fHwxNzYwOTA0MzcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "plant growing"
+    },
+    {
+      "id": "stepChopBroccoli",
+      "description": "Close-up of hands chopping fresh broccoli florets on a cutting board.",
+      "imageUrl": "https://images.unsplash.com/photo-1599297914860-1ccd36987a52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjaG9wcGluZyUyMHZlZ2V0YWJsZXN8ZW58MHx8fHwxNzYwOTc1OTU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chopping vegetables"
+    },
+    {
+      "id": "stepSauteOnions",
+      "description": "Sizzling chopped onions and garlic being sauteed in a pan.",
+      "imageUrl": "https://images.unsplash.com/photo-1714298663152-c2f010c50b33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzYXV0ZWluZyUyMG9uaW9uc3xlbnwwfHx8fDE3NjA5NzU5NTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sauteing onions"
+    },
+    {
+      "id": "stepAddBroth",
+      "description": "Pouring vegetable broth into the pan with the sauteed aromatics.",
+      "imageUrl": "https://images.unsplash.com/photo-1700143159146-d591353dffc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwb3VyaW5nJTIwYnJvdGh8ZW58MHx8fHwxNzYwOTc1OTU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pouring broth"
+    },
+    {
+      "id": "stepSimmerSoup",
+      "description": "The soup simmering gently in a large pot on the stove.",
+      "imageUrl": "https://images.unsplash.com/photo-1610565826403-0a8cecc8ce5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzaW1tZXJpbmclMjBzb3VwfGVufDB8fHx8MTc2MDk3NTk1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "simmering soup"
+    },
+    {
+      "id": "stepBlendSoup",
+      "description": "An immersion blender being used to puree the soup until smooth.",
+      "imageUrl": "https://images.unsplash.com/photo-1610565826403-0a8cecc8ce5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxibGVuZGluZyUyMHNvdXB8ZW58MHx8fHwxNzYwOTc1OTU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "blending soup"
+    },
+    {
+      "id": "stepAddCreamCheese",
+      "description": "Stirring in heavy cream and shredded cheddar cheese to finish the soup.",
+      "imageUrl": "https://images.unsplash.com/photo-1590912710024-6d51a6771abd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhZGRpbmclMjBjaGVlc2V8ZW58MHx8fHwxNzYwOTc1OTU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "adding cheese"
+    }
+  ]
+}
